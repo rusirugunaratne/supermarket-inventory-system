@@ -1,0 +1,5 @@
+ 1 dhal Grains nipuna 1000 g 250 25 225 
+ 2 cheese Diary_Products kothmale 100 r 350 20 330 
+ 3 creamsoda Beverages elephant_house 500 r 200 15 185
+ 4 banana Produce keels 200 g 120 10 110 
+ 5 conditionar Health_&_Beauty nature_secrets 150 r 600 50 550

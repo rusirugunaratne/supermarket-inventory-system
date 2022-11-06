@@ -1,0 +1,5 @@
+ 1 face_cream Health_&_Beauty fair_&_lovely 1000 r 150 10 140 India 2356 10/04/2021 22/04/2021
+ 2 rice Grains alhajil 5000 g 112 12 100 pakisthan 32155 16/05/2021 28/05/2021
+ 3 perfume Health_&_Beauty fogg 3000 r 900 25 875 India 65984 10/04/2021 22/04/2021
+ 4 sweets Snacks_&_Sweets marvalo 8000 r 450 10 440 china 15424 02/05/2021 06/05/2021
+ 5 dry_chilli Condiments_&_Spices hisbunmlla 2000 g 780 50 730 Pakisthan 32155 16/05/2021 28/05/2021

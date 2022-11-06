@@ -1,0 +1,5 @@
+1 water_melon Produce keels 10 g 100 10 90 KGK_group 10/05/2021 12/05/2021 PQ1235
+2 chocolet Snacks_&_sweets Risbary 500 r 100 5 95 manchee 01/05/2021 13/05/2021 LK3656
+3 face_cream Health_&_Beauty olympus 200 r 350 20 330 nature_secrets 13/05/2021 15/05/2021 PN9854
+4 ice_cream Frozen_foods magic 50 r 285 15 270 cargeals 15/05/2021 16/05/2021 LL9845
+5 chicken_meat Meat_&_Seafood cargeals 30 g 600 30 570 cargeals 17/05/2021 17/05/2021 LA4951
